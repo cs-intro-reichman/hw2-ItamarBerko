@@ -8,7 +8,7 @@ public class Cheers {
                         char c = word.charAt(i);
                         System.out.print("Give me ");
                         if ("AEFHILMNORSX".indexOf(c)==-1) {
-                                System.out.print("a ");
+                                System.out.print("a  ");
                         }
                         else {
                                 System.out.print("an ");
